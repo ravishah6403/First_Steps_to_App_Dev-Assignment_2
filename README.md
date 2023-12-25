@@ -1,7 +1,7 @@
 # Assignment 2 - Shopping App
 # Features
 -Custom Add Item Widget<br>
--Working Crude Checkout System
+-Working Crude Cart System
 
 # Assets Used
 -Vegetables and fruits images from https://www.pngwing.com/ <br>
